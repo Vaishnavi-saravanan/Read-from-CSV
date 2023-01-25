@@ -18,8 +18,8 @@ Print the output.
 
 # PROGRAM:
 ```python
-#Developed by:S.Nirosha
-#Register no:22009078
+#Developed by:s.vaishnavi
+#Register no:22009040
 import pandas as pd
 df= pd.read_csv("nba.csv")
 print(df.head(10))
